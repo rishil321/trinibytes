@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~font-awesome/css/font-awesome.css";
+
+.scrolltext-div {
+  overflow-y: auto;
+  border: 1px solid;
+  height: 40rem;
+  width: 80rem;
+}
