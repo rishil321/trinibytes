@@ -1,0 +1,10 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: trinibytes-ingress
+spec:
+  defaultBackend:
+    service:
+      name: trinibytes-aspnet-angular
+      port:
+        number: 5000

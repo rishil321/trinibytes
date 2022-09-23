@@ -1,0 +1,467 @@
+2022-09-22 19:12:06.590 -04:00 [DBG] Background job started.
+2022-09-22 19:12:11.142 -04:00 [DBG] Background job stopped.
+2022-09-22 23:13:05.838 +00:00 [DBG] Background job started.
+2022-09-22 23:13:24.252 +00:00 [DBG] Successfully parsed data for Marketing and Sales Officer from Not Disclosed.
+2022-09-22 23:13:25.226 +00:00 [DBG] Successfully parsed data for Process Engineer II from Massy Wood Group.
+2022-09-22 23:13:26.291 +00:00 [DBG] Successfully parsed data for COMMUNICATION STUDIES TEACHER from Bishop Anstey High School East & Trinity College East.
+2022-09-22 23:13:27.560 +00:00 [DBG] Successfully parsed data for Project Delivery Lead - Secondment from Massy Wood Group.
+2022-09-22 23:13:28.589 +00:00 [DBG] Successfully parsed data for Project Delivery Lead from Massy Wood Group.
+2022-09-22 23:13:29.708 +00:00 [DBG] Successfully parsed data for Business Operations Assistant II from Eve Anderson Recruitment Ltd.
+2022-09-22 23:13:30.622 +00:00 [DBG] Successfully parsed data for Internal Auditor from National Flour Mills Limited.
+2022-09-22 23:13:31.849 +00:00 [DBG] Successfully parsed data for Group IFRS Compliance Manager from ANSA McAL Group of Companies.
+2022-09-22 23:13:32.784 +00:00 [DBG] Successfully parsed data for Assistant General Manager from Regency Recruitment and Resources Limited.
+2022-09-22 23:13:33.776 +00:00 [DBG] Successfully parsed data for GRAPHIC ARTIST from Eastman & Associates.
+2022-09-22 23:13:34.728 +00:00 [DBG] Successfully parsed data for Collection Officer from NES Fircroft.
+2022-09-22 23:13:36.097 +00:00 [DBG] Successfully parsed data for Quantity Surveyor from Not Disclosed.
+2022-09-22 23:13:37.736 +00:00 [DBG] Successfully parsed data for Performance Analyst from Phoenix Park Gas Processors Limited.
+2022-09-22 23:13:38.735 +00:00 [DBG] Successfully parsed data for Manager - Deal Advisory from KPMG Caricom Business Services Limited.
+2022-09-22 23:13:39.633 +00:00 [DBG] Successfully parsed data for Tax Manager from KPMG Caricom Business Services Limited.
+2022-09-22 23:13:41.163 +00:00 [DBG] Successfully parsed data for Sales Associate from PSCU Credit Union Co-operative Society Limited.
+2022-09-22 23:13:42.065 +00:00 [DBG] Successfully parsed data for ICT Technician from Eve Anderson Recruitment Ltd.
+2022-09-22 23:13:43.216 +00:00 [DBG] Successfully parsed data for PRINCIPAL, SPECIAL EDUCATION from RecruitmentXperts Ltd.
+2022-09-22 23:13:44.118 +00:00 [DBG] Successfully parsed data for CSR from Not Disclosed.
+2022-09-22 23:13:45.018 +00:00 [DBG] Successfully parsed data for Account Executive from Regency Recruitment and Resources Limited.
+2022-09-22 23:13:45.964 +00:00 [DBG] Successfully parsed data for Instrumentation & Controls Engineer II from Massy Wood Group.
+2022-09-22 23:13:47.141 +00:00 [DBG] Successfully parsed data for Senior Electrical Engineer - Design from Massy Wood Group.
+2022-09-22 23:13:48.153 +00:00 [DBG] Successfully parsed data for Accounting Assistant from The Dachin Group of Companies.
+2022-09-22 23:13:49.123 +00:00 [DBG] Successfully parsed data for Human Resource Officer II from ASSL - Amalgamated Security Services Limited.
+2022-09-22 23:13:50.072 +00:00 [DBG] Successfully parsed data for Trade Marketing Assistant from Kaleidoscope Paints Limited.
+2022-09-22 23:13:51.304 +00:00 [DBG] Successfully parsed data for Laboratory Shift Supervisor from Kenson Group of Companies.
+2022-09-22 23:13:52.317 +00:00 [DBG] Successfully parsed data for Laboratory Technician from Kenson Group of Companies.
+2022-09-22 23:13:53.367 +00:00 [DBG] Successfully parsed data for HSSE Manager from GCG Trinidad.
+2022-09-22 23:13:54.628 +00:00 [DBG] Successfully parsed data for CEDI- Sales & Operations Manager from Ramco Industries Limited.
+2022-09-22 23:13:55.589 +00:00 [DBG] Successfully parsed data for Legal Services Manager from S.M. Jaleel & Company Limited.
+2022-09-22 23:13:56.654 +00:00 [DBG] Successfully parsed data for Operations Analyst from National Flour Mills Limited.
+2022-09-22 23:13:57.605 +00:00 [DBG] Successfully parsed data for Tractor Driver from Not Disclosed.
+2022-09-22 23:13:58.560 +00:00 [DBG] Successfully parsed data for Retail Associate from Digicel.
+2022-09-22 23:13:59.641 +00:00 [DBG] Successfully parsed data for Account Executive from Digicel.
+2022-09-22 23:14:00.525 +00:00 [DBG] Successfully parsed data for Accounting Assistant from The Maritime Financial Group.
+2022-09-22 23:14:01.472 +00:00 [DBG] Successfully parsed data for FASHION MARKETING ASSISTANT from Ecliff Elie Limited.
+2022-09-22 23:14:02.952 +00:00 [DBG] Successfully parsed data for Branch Supervisor from J & K Signature Styles.
+2022-09-22 23:14:04.142 +00:00 [DBG] Successfully parsed data for Senior Technical Support Professional from Amplia Communications Limited.
+2022-09-22 23:14:05.128 +00:00 [DBG] Successfully parsed data for Car Park Attendant from Southern Medical Services Company Limited.
+2022-09-22 23:14:06.128 +00:00 [DBG] Successfully parsed data for Accountant from Not Disclosed.
+2022-09-22 23:14:07.109 +00:00 [DBG] Successfully parsed data for Finance Intern from CGA Limited.
+2022-09-22 23:14:08.279 +00:00 [DBG] Successfully parsed data for Country Ecommerce Officer from UNICOMER (Trinidad) Ltd.
+2022-09-22 23:14:09.228 +00:00 [DBG] Successfully parsed data for TECHNICIAN from Not Disclosed.
+2022-09-22 23:14:10.247 +00:00 [DBG] Successfully parsed data for Customer Service Representative from Not Disclosed.
+2022-09-22 23:14:11.267 +00:00 [DBG] Successfully parsed data for Project Coordinator from Associated Brands Industries Ltd.
+2022-09-22 23:14:12.467 +00:00 [DBG] Successfully parsed data for Maintenance Planning Assistant from Associated Brands Industries Ltd.
+2022-09-22 23:14:13.450 +00:00 [DBG] Successfully parsed data for DISPATCHER/PORTER from Not Disclosed.
+2022-09-22 23:14:14.496 +00:00 [DBG] Successfully parsed data for Merchandiser from Not Disclosed.
+2022-09-22 23:14:15.410 +00:00 [DBG] Successfully parsed data for Sales Representative from Not Disclosed.
+2022-09-22 23:14:17.091 +00:00 [DBG] Successfully parsed data for Senior Customs Manager from Not Disclosed.
+2022-09-22 23:14:18.094 +00:00 [DBG] Successfully parsed data for RESEARCH OFFICER from North Central Regional Health Authority.
+2022-09-22 23:14:19.129 +00:00 [DBG] Successfully parsed data for EXECUTIVE SECRETARY from North Central Regional Health Authority.
+2022-09-22 23:14:20.059 +00:00 [DBG] Successfully parsed data for MANAGER, LEGAL from North Central Regional Health Authority.
+2022-09-22 23:14:21.077 +00:00 [DBG] Successfully parsed data for ELECTRICAL ENGINEER I from North Central Regional Health Authority.
+2022-09-22 23:14:22.075 +00:00 [DBG] Successfully parsed data for CONVEYANCING CLERK from Eastman & Associates.
+2022-09-22 23:14:22.980 +00:00 [DBG] Successfully parsed data for Corporate Services Administrator from Regency Recruitment and Resources Limited.
+2022-09-22 23:14:23.995 +00:00 [DBG] Successfully parsed data for Store Supervisor (Courts) from UNICOMER (Trinidad) Ltd.
+2022-09-22 23:14:24.966 +00:00 [DBG] Successfully parsed data for Optometrist from UNICOMER (Trinidad) Ltd.
+2022-09-22 23:14:26.027 +00:00 [DBG] Successfully parsed data for Fulfillment Planner from UNICOMER (Trinidad) Ltd.
+2022-09-22 23:14:27.055 +00:00 [DBG] Successfully parsed data for Reporting Supervisor from iQor.
+2022-09-22 23:14:28.039 +00:00 [DBG] Successfully parsed data for Customer Service Sales Representative from iQor.
+2022-09-22 23:14:29.459 +00:00 [DBG] Successfully parsed data for Senior Financial Advisor (Belize) from Glo Recruitment & HR.
+2022-09-22 23:14:30.604 +00:00 [DBG] Successfully parsed data for Finance Manager, Standard Distributors Limited from ANSA McAL Group of Companies.
+2022-09-22 23:14:31.710 +00:00 [DBG] Successfully parsed data for Buyer, Standard Distributors Limited from ANSA McAL Group of Companies.
+2022-09-22 23:14:32.718 +00:00 [DBG] Successfully parsed data for Senior Procurement Officer from Electrical Industries Group Ltd (EIG).
+2022-09-22 23:14:33.670 +00:00 [DBG] Successfully parsed data for Enrolled Nursing Assistant - Pool from Not Disclosed.
+2022-09-22 23:14:34.703 +00:00 [DBG] Successfully parsed data for Health Care Sector Lead from Not Disclosed.
+2022-09-22 23:14:35.606 +00:00 [DBG] Successfully parsed data for Claims Technician from Not Disclosed.
+2022-09-22 23:14:36.607 +00:00 [DBG] Successfully parsed data for Bilingual-IT Desktop Support Technician from ESP.CO. UK. Ltd / ESP GLOBAL.
+2022-09-22 23:14:37.585 +00:00 [DBG] Successfully parsed data for Draughting Technician from Delta Window and Doors.
+2022-09-22 23:14:38.476 +00:00 [DBG] Successfully parsed data for Part Qualified Accountant from Actavo.
+2022-09-22 23:14:39.627 +00:00 [DBG] Successfully parsed data for Group IT Cloud Engineer from Digicel.
+2022-09-22 23:14:40.581 +00:00 [DBG] Successfully parsed data for Library Assistant Trinidad from Not Disclosed.
+2022-09-22 23:14:41.613 +00:00 [DBG] Successfully parsed data for IT Security Specialist (Trinidad) from Caribbean Airlines Limited.
+2022-09-22 23:14:42.538 +00:00 [DBG] Successfully parsed data for Manager - Managed Services & Major Projects from Productive Business Solutions (PBS).
+2022-09-22 23:14:43.899 +00:00 [DBG] Successfully parsed data for Mechanical Engineer II - Downstream Oil & Gas from NES Fircroft.
+2022-09-22 23:14:45.342 +00:00 [DBG] Successfully parsed data for Logistics Manager from Angostura Limited.
+2022-09-22 23:14:46.674 +00:00 [DBG] Successfully parsed data for Supply Planner from Angostura Limited.
+2022-09-22 23:14:47.670 +00:00 [DBG] Successfully parsed data for Corporate Trainer from Regency Recruitment and Resources Limited.
+2022-09-22 23:14:48.743 +00:00 [DBG] Successfully parsed data for Facilities Coordinator, Standard Distributors Limited from ANSA McAL Group of Companies.
+2022-09-22 23:14:49.666 +00:00 [DBG] Successfully parsed data for Programmer Trainee from Republic Bank Limited.
+2022-09-22 23:14:50.537 +00:00 [DBG] Successfully parsed data for Accounting / Administrative Assistant from RelyOn Nutec.
+2022-09-22 23:14:51.435 +00:00 [DBG] Successfully parsed data for Account Executive, Carib Glassworks Limited from ANSA McAL Group of Companies.
+2022-09-22 23:14:52.456 +00:00 [DBG] Successfully parsed data for Project Assistant- Production from Aegis Business Solutions Limited.
+2022-09-22 23:14:53.410 +00:00 [DBG] Successfully parsed data for Community Engagement Intern- Facebook and Tiktok from Aegis Business Solutions Limited.
+2022-09-22 23:14:54.435 +00:00 [DBG] Successfully parsed data for Marketing Coordinator from Aegis Business Solutions Limited.
+2022-09-22 23:14:55.350 +00:00 [DBG] Successfully parsed data for Network Technician from Regency Recruitment and Resources Limited.
+2022-09-22 23:14:56.286 +00:00 [DBG] Successfully parsed data for Legal Advisor from Radiant Law.
+2022-09-22 23:14:57.216 +00:00 [DBG] Successfully parsed data for Senior Project Manager from Fujitsu Caribbean.
+2022-09-22 23:14:58.182 +00:00 [DBG] Successfully parsed data for SALES REPRESENTATIVE from Not Disclosed.
+2022-09-22 23:14:59.183 +00:00 [DBG] Successfully parsed data for Human Resources & Payroll Generalist from Trotters Restaurant Group Limited.
+2022-09-22 23:15:00.197 +00:00 [DBG] Successfully parsed data for AML/CFT Compliance Officer from National Lotteries Control Board.
+2022-09-22 23:15:01.241 +00:00 [DBG] Successfully parsed data for Senior Auditor from National Lotteries Control Board.
+2022-09-22 23:15:02.435 +00:00 [DBG] Successfully parsed data for Digital Marketing Specialist from Regency Recruitment and Resources Limited.
+2022-09-22 23:15:04.156 +00:00 [DBG] Successfully parsed data for Registered Nurse - Pool from Not Disclosed.
+2022-09-22 23:15:05.271 +00:00 [DBG] Successfully parsed data for PROCUREMENT & LOGISTICS COORDINATOR/MANAGER from Pharmaco Industries Limited.
+2022-09-22 23:15:06.258 +00:00 [DBG] Successfully parsed data for Engineering Technician/Quantity Surveying Technician from Not Disclosed.
+2022-09-22 23:15:07.358 +00:00 [DBG] Successfully parsed data for ACCOUNT EXECUTIVE from Eastman & Associates.
+2022-09-22 23:15:08.435 +00:00 [DBG] Successfully parsed data for Technical Sales & Marketing Representative- Audio Visual Department from Western Scientific Company Ltd.
+2022-09-22 23:15:09.429 +00:00 [DBG] Successfully parsed data for Cashier from Not Disclosed.
+2022-09-22 23:15:09.430 +00:00 [DBG] All job post data added to list successfully.
+2022-09-22 23:15:11.252 +00:00 [INF] Updated/inserted Marketing and Sales Officer from Not Disclosed into database.
+2022-09-22 23:15:11.353 +00:00 [INF] Updated/inserted Process Engineer II from Massy Wood Group into database.
+2022-09-22 23:15:11.451 +00:00 [INF] Updated/inserted COMMUNICATION STUDIES TEACHER from Bishop Anstey High School East & Trinity College East into database.
+2022-09-22 23:15:11.549 +00:00 [INF] Updated/inserted Project Delivery Lead - Secondment from Massy Wood Group into database.
+2022-09-22 23:15:11.669 +00:00 [INF] Updated/inserted Project Delivery Lead from Massy Wood Group into database.
+2022-09-22 23:15:11.767 +00:00 [INF] Updated/inserted Business Operations Assistant II from Eve Anderson Recruitment Ltd into database.
+2022-09-22 23:15:11.991 +00:00 [INF] Updated/inserted Internal Auditor from National Flour Mills Limited into database.
+2022-09-22 23:15:12.088 +00:00 [INF] Updated/inserted Group IFRS Compliance Manager from ANSA McAL Group of Companies into database.
+2022-09-22 23:15:12.195 +00:00 [INF] Updated/inserted Assistant General Manager from Regency Recruitment and Resources Limited into database.
+2022-09-22 23:15:12.292 +00:00 [INF] Updated/inserted GRAPHIC ARTIST from Eastman & Associates into database.
+2022-09-22 23:15:12.390 +00:00 [INF] Updated/inserted Collection Officer from NES Fircroft into database.
+2022-09-22 23:15:12.487 +00:00 [INF] Updated/inserted Quantity Surveyor from Not Disclosed into database.
+2022-09-22 23:15:12.584 +00:00 [INF] Updated/inserted Performance Analyst from Phoenix Park Gas Processors Limited into database.
+2022-09-22 23:15:12.683 +00:00 [INF] Updated/inserted Manager - Deal Advisory from KPMG Caricom Business Services Limited into database.
+2022-09-22 23:15:12.782 +00:00 [INF] Updated/inserted Tax Manager from KPMG Caricom Business Services Limited into database.
+2022-09-22 23:15:12.879 +00:00 [INF] Updated/inserted Sales Associate from PSCU Credit Union Co-operative Society Limited into database.
+2022-09-22 23:15:13.075 +00:00 [INF] Updated/inserted ICT Technician from Eve Anderson Recruitment Ltd into database.
+2022-09-22 23:15:13.173 +00:00 [INF] Updated/inserted PRINCIPAL, SPECIAL EDUCATION from RecruitmentXperts Ltd into database.
+2022-09-22 23:15:13.272 +00:00 [INF] Updated/inserted CSR from Not Disclosed into database.
+2022-09-22 23:15:13.371 +00:00 [INF] Updated/inserted Account Executive from Regency Recruitment and Resources Limited into database.
+2022-09-22 23:15:13.469 +00:00 [INF] Updated/inserted Instrumentation & Controls Engineer II from Massy Wood Group into database.
+2022-09-22 23:15:13.568 +00:00 [INF] Updated/inserted Senior Electrical Engineer - Design from Massy Wood Group into database.
+2022-09-22 23:15:13.666 +00:00 [INF] Updated/inserted Accounting Assistant from The Dachin Group of Companies into database.
+2022-09-22 23:15:13.764 +00:00 [INF] Updated/inserted Human Resource Officer II from ASSL - Amalgamated Security Services Limited into database.
+2022-09-22 23:15:13.865 +00:00 [INF] Updated/inserted Trade Marketing Assistant from Kaleidoscope Paints Limited into database.
+2022-09-22 23:15:13.965 +00:00 [INF] Updated/inserted Laboratory Shift Supervisor from Kenson Group of Companies into database.
+2022-09-22 23:15:14.063 +00:00 [INF] Updated/inserted Laboratory Technician from Kenson Group of Companies into database.
+2022-09-22 23:15:14.162 +00:00 [INF] Updated/inserted HSSE Manager from GCG Trinidad into database.
+2022-09-22 23:15:14.259 +00:00 [INF] Updated/inserted CEDI- Sales & Operations Manager from Ramco Industries Limited into database.
+2022-09-22 23:15:14.358 +00:00 [INF] Updated/inserted Legal Services Manager from S.M. Jaleel & Company Limited into database.
+2022-09-22 23:15:14.456 +00:00 [INF] Updated/inserted Operations Analyst from National Flour Mills Limited into database.
+2022-09-22 23:15:14.556 +00:00 [INF] Updated/inserted Tractor Driver from Not Disclosed into database.
+2022-09-22 23:15:14.653 +00:00 [INF] Updated/inserted Retail Associate from Digicel into database.
+2022-09-22 23:15:14.850 +00:00 [INF] Updated/inserted Account Executive from Digicel into database.
+2022-09-22 23:15:15.042 +00:00 [INF] Updated/inserted Accounting Assistant from The Maritime Financial Group into database.
+2022-09-22 23:15:15.140 +00:00 [INF] Updated/inserted FASHION MARKETING ASSISTANT from Ecliff Elie Limited into database.
+2022-09-22 23:15:15.258 +00:00 [INF] Updated/inserted Branch Supervisor from J & K Signature Styles into database.
+2022-09-22 23:15:15.356 +00:00 [INF] Updated/inserted Senior Technical Support Professional from Amplia Communications Limited into database.
+2022-09-22 23:15:15.452 +00:00 [INF] Updated/inserted Car Park Attendant from Southern Medical Services Company Limited into database.
+2022-09-22 23:15:15.549 +00:00 [INF] Updated/inserted Accountant from Not Disclosed into database.
+2022-09-22 23:15:15.646 +00:00 [INF] Updated/inserted Finance Intern from CGA Limited into database.
+2022-09-22 23:15:15.742 +00:00 [INF] Updated/inserted Country Ecommerce Officer from UNICOMER (Trinidad) Ltd into database.
+2022-09-22 23:15:15.840 +00:00 [INF] Updated/inserted TECHNICIAN from Not Disclosed into database.
+2022-09-22 23:15:15.937 +00:00 [INF] Updated/inserted Customer Service Representative from Not Disclosed into database.
+2022-09-22 23:15:16.034 +00:00 [INF] Updated/inserted Project Coordinator from Associated Brands Industries Ltd into database.
+2022-09-22 23:15:16.131 +00:00 [INF] Updated/inserted Maintenance Planning Assistant from Associated Brands Industries Ltd into database.
+2022-09-22 23:15:16.228 +00:00 [INF] Updated/inserted DISPATCHER/PORTER from Not Disclosed into database.
+2022-09-22 23:15:16.325 +00:00 [INF] Updated/inserted Merchandiser from Not Disclosed into database.
+2022-09-22 23:15:16.423 +00:00 [INF] Updated/inserted Sales Representative from Not Disclosed into database.
+2022-09-22 23:15:16.519 +00:00 [INF] Updated/inserted Senior Customs Manager from Not Disclosed into database.
+2022-09-22 23:15:16.616 +00:00 [INF] Updated/inserted RESEARCH OFFICER from North Central Regional Health Authority into database.
+2022-09-22 23:15:16.715 +00:00 [INF] Updated/inserted EXECUTIVE SECRETARY from North Central Regional Health Authority into database.
+2022-09-22 23:15:16.811 +00:00 [INF] Updated/inserted MANAGER, LEGAL from North Central Regional Health Authority into database.
+2022-09-22 23:15:16.910 +00:00 [INF] Updated/inserted ELECTRICAL ENGINEER I from North Central Regional Health Authority into database.
+2022-09-22 23:15:17.006 +00:00 [INF] Updated/inserted CONVEYANCING CLERK from Eastman & Associates into database.
+2022-09-22 23:15:17.200 +00:00 [INF] Updated/inserted Corporate Services Administrator from Regency Recruitment and Resources Limited into database.
+2022-09-22 23:15:17.396 +00:00 [INF] Updated/inserted Store Supervisor (Courts) from UNICOMER (Trinidad) Ltd into database.
+2022-09-22 23:15:17.599 +00:00 [INF] Updated/inserted Optometrist from UNICOMER (Trinidad) Ltd into database.
+2022-09-22 23:15:17.794 +00:00 [INF] Updated/inserted Fulfillment Planner from UNICOMER (Trinidad) Ltd into database.
+2022-09-22 23:15:17.990 +00:00 [INF] Updated/inserted Reporting Supervisor from iQor into database.
+2022-09-22 23:15:18.185 +00:00 [INF] Updated/inserted Customer Service Sales Representative from iQor into database.
+2022-09-22 23:15:18.385 +00:00 [INF] Updated/inserted Senior Financial Advisor (Belize) from Glo Recruitment & HR into database.
+2022-09-22 23:15:18.579 +00:00 [INF] Updated/inserted Finance Manager, Standard Distributors Limited from ANSA McAL Group of Companies into database.
+2022-09-22 23:15:18.773 +00:00 [INF] Updated/inserted Buyer, Standard Distributors Limited from ANSA McAL Group of Companies into database.
+2022-09-22 23:15:18.969 +00:00 [INF] Updated/inserted Senior Procurement Officer from Electrical Industries Group Ltd (EIG) into database.
+2022-09-22 23:15:19.161 +00:00 [INF] Updated/inserted Enrolled Nursing Assistant - Pool from Not Disclosed into database.
+2022-09-22 23:15:19.375 +00:00 [INF] Updated/inserted Health Care Sector Lead from Not Disclosed into database.
+2022-09-22 23:15:19.568 +00:00 [INF] Updated/inserted Claims Technician from Not Disclosed into database.
+2022-09-22 23:15:19.762 +00:00 [INF] Updated/inserted Bilingual-IT Desktop Support Technician from ESP.CO. UK. Ltd / ESP GLOBAL into database.
+2022-09-22 23:15:19.957 +00:00 [INF] Updated/inserted Draughting Technician from Delta Window and Doors into database.
+2022-09-22 23:15:20.150 +00:00 [INF] Updated/inserted Part Qualified Accountant from Actavo into database.
+2022-09-22 23:15:20.344 +00:00 [INF] Updated/inserted Group IT Cloud Engineer from Digicel into database.
+2022-09-22 23:15:20.537 +00:00 [INF] Updated/inserted Library Assistant Trinidad from Not Disclosed into database.
+2022-09-22 23:15:20.732 +00:00 [INF] Updated/inserted IT Security Specialist (Trinidad) from Caribbean Airlines Limited into database.
+2022-09-22 23:15:20.925 +00:00 [INF] Updated/inserted Manager - Managed Services & Major Projects from Productive Business Solutions (PBS) into database.
+2022-09-22 23:15:21.118 +00:00 [INF] Updated/inserted Mechanical Engineer II - Downstream Oil & Gas from NES Fircroft into database.
+2022-09-22 23:15:21.312 +00:00 [INF] Updated/inserted Logistics Manager from Angostura Limited into database.
+2022-09-22 23:15:21.506 +00:00 [INF] Updated/inserted Supply Planner from Angostura Limited into database.
+2022-09-22 23:15:21.699 +00:00 [INF] Updated/inserted Corporate Trainer from Regency Recruitment and Resources Limited into database.
+2022-09-22 23:15:21.904 +00:00 [INF] Updated/inserted Facilities Coordinator, Standard Distributors Limited from ANSA McAL Group of Companies into database.
+2022-09-22 23:15:22.099 +00:00 [INF] Updated/inserted Programmer Trainee from Republic Bank Limited into database.
+2022-09-22 23:15:22.297 +00:00 [INF] Updated/inserted Accounting / Administrative Assistant from RelyOn Nutec into database.
+2022-09-22 23:15:22.491 +00:00 [INF] Updated/inserted Account Executive, Carib Glassworks Limited from ANSA McAL Group of Companies into database.
+2022-09-22 23:15:22.685 +00:00 [INF] Updated/inserted Project Assistant- Production from Aegis Business Solutions Limited into database.
+2022-09-22 23:15:22.882 +00:00 [INF] Updated/inserted Community Engagement Intern- Facebook and Tiktok from Aegis Business Solutions Limited into database.
+2022-09-22 23:15:23.076 +00:00 [INF] Updated/inserted Marketing Coordinator from Aegis Business Solutions Limited into database.
+2022-09-22 23:15:23.270 +00:00 [INF] Updated/inserted Network Technician from Regency Recruitment and Resources Limited into database.
+2022-09-22 23:15:23.464 +00:00 [INF] Updated/inserted Legal Advisor from Radiant Law into database.
+2022-09-22 23:15:23.657 +00:00 [INF] Updated/inserted Senior Project Manager from Fujitsu Caribbean into database.
+2022-09-22 23:15:23.853 +00:00 [INF] Updated/inserted SALES REPRESENTATIVE from Not Disclosed into database.
+2022-09-22 23:15:24.045 +00:00 [INF] Updated/inserted Human Resources & Payroll Generalist from Trotters Restaurant Group Limited into database.
+2022-09-22 23:15:24.238 +00:00 [INF] Updated/inserted AML/CFT Compliance Officer from National Lotteries Control Board into database.
+2022-09-22 23:15:24.430 +00:00 [INF] Updated/inserted Senior Auditor from National Lotteries Control Board into database.
+2022-09-22 23:15:24.632 +00:00 [INF] Updated/inserted Digital Marketing Specialist from Regency Recruitment and Resources Limited into database.
+2022-09-22 23:15:24.825 +00:00 [INF] Updated/inserted Registered Nurse - Pool from Not Disclosed into database.
+2022-09-22 23:15:25.018 +00:00 [INF] Updated/inserted PROCUREMENT & LOGISTICS COORDINATOR/MANAGER from Pharmaco Industries Limited into database.
+2022-09-22 23:15:25.211 +00:00 [INF] Updated/inserted Engineering Technician/Quantity Surveying Technician from Not Disclosed into database.
+2022-09-22 23:15:25.403 +00:00 [INF] Updated/inserted ACCOUNT EXECUTIVE from Eastman & Associates into database.
+2022-09-22 23:15:25.596 +00:00 [INF] Updated/inserted Technical Sales & Marketing Representative- Audio Visual Department from Western Scientific Company Ltd into database.
+2022-09-22 23:15:25.788 +00:00 [INF] Updated/inserted Cashier from Not Disclosed into database.
+2022-09-22 23:15:26.151 +00:00 [ERR] Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 2 - Connection was terminated: Connection was terminated)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__207_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:d11c698a-ad10-405a-afe8-6092c89511b3
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.<>c__DisplayClass30_0`2.<<ExecuteAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.ExecuteImplementationAsync[TState,TResult](Func`4 operation, Func`4 verifySucceeded, TState state, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.ExecuteImplementationAsync[TState,TResult](Func`4 operation, Func`4 verifySucceeded, TState state, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at trinibytes.Scrapers.ScrapeCaribbeanJobsPosts.UpsertScrapedJobPostsIntoDatabase(List`1 scrapedJobPosts, MyDbContext _dbContext) in C:\Users\Rishi-Desktop\Mega Sync\Code\trinibytes_aspnet\trinibytes\Scrapers\ScrapeCaribbeanJobsPosts.cs:line 208
+2022-09-22 23:15:26.152 +00:00 [INF] Something went wrong while fetching current job posts.
+2022-09-22 19:19:22.576 -04:00 [DBG] Background job started.
+2022-09-22 19:19:59.226 -04:00 [DBG] Background job started.
+2022-09-22 23:40:28.872 +00:00 [DBG] Background job started.
+2022-09-22 23:40:47.036 +00:00 [DBG] Successfully parsed data for Marketing and Sales Officer from Not Disclosed.
+2022-09-22 23:40:48.308 +00:00 [DBG] Successfully parsed data for Process Engineer II from Massy Wood Group.
+2022-09-22 23:40:49.531 +00:00 [DBG] Successfully parsed data for COMMUNICATION STUDIES TEACHER from Bishop Anstey High School East & Trinity College East.
+2022-09-22 23:40:50.563 +00:00 [DBG] Successfully parsed data for Project Delivery Lead - Secondment from Massy Wood Group.
+2022-09-22 23:40:51.640 +00:00 [DBG] Successfully parsed data for Project Delivery Lead from Massy Wood Group.
+2022-09-22 23:40:52.574 +00:00 [DBG] Successfully parsed data for Business Operations Assistant II from Eve Anderson Recruitment Ltd.
+2022-09-22 23:40:53.486 +00:00 [DBG] Successfully parsed data for Internal Auditor from National Flour Mills Limited.
+2022-09-22 23:40:54.384 +00:00 [DBG] Successfully parsed data for Group IFRS Compliance Manager from ANSA McAL Group of Companies.
+2022-09-22 23:40:55.327 +00:00 [DBG] Successfully parsed data for Assistant General Manager from Regency Recruitment and Resources Limited.
+2022-09-22 23:40:56.310 +00:00 [DBG] Successfully parsed data for GRAPHIC ARTIST from Eastman & Associates.
+2022-09-22 23:40:57.293 +00:00 [DBG] Successfully parsed data for Collection Officer from NES Fircroft.
+2022-09-22 23:40:58.440 +00:00 [DBG] Successfully parsed data for Quantity Surveyor from Not Disclosed.
+2022-09-22 23:41:00.134 +00:00 [DBG] Successfully parsed data for Performance Analyst from Phoenix Park Gas Processors Limited.
+2022-09-22 23:41:01.046 +00:00 [DBG] Successfully parsed data for Manager - Deal Advisory from KPMG Caricom Business Services Limited.
+2022-09-22 23:41:02.013 +00:00 [DBG] Successfully parsed data for Tax Manager from KPMG Caricom Business Services Limited.
+2022-09-22 23:41:03.449 +00:00 [DBG] Successfully parsed data for Sales Associate from PSCU Credit Union Co-operative Society Limited.
+2022-09-22 23:41:04.383 +00:00 [DBG] Successfully parsed data for ICT Technician from Eve Anderson Recruitment Ltd.
+2022-09-22 23:41:06.046 +00:00 [DBG] Successfully parsed data for PRINCIPAL, SPECIAL EDUCATION from RecruitmentXperts Ltd.
+2022-09-22 23:41:07.060 +00:00 [DBG] Successfully parsed data for CSR from Not Disclosed.
+2022-09-22 23:41:08.052 +00:00 [DBG] Successfully parsed data for Account Executive from Regency Recruitment and Resources Limited.
+2022-09-22 23:41:09.098 +00:00 [DBG] Successfully parsed data for Instrumentation & Controls Engineer II from Massy Wood Group.
+2022-09-22 23:41:10.112 +00:00 [DBG] Successfully parsed data for Senior Electrical Engineer - Design from Massy Wood Group.
+2022-09-22 23:41:11.010 +00:00 [DBG] Successfully parsed data for Accounting Assistant from The Dachin Group of Companies.
+2022-09-22 23:41:11.908 +00:00 [DBG] Successfully parsed data for Human Resource Officer II from ASSL - Amalgamated Security Services Limited.
+2022-09-22 23:41:12.850 +00:00 [DBG] Successfully parsed data for Trade Marketing Assistant from Kaleidoscope Paints Limited.
+2022-09-22 23:41:14.095 +00:00 [DBG] Successfully parsed data for Laboratory Shift Supervisor from Kenson Group of Companies.
+2022-09-22 23:41:14.989 +00:00 [DBG] Successfully parsed data for Laboratory Technician from Kenson Group of Companies.
+2022-09-22 23:41:15.899 +00:00 [DBG] Successfully parsed data for HSSE Manager from GCG Trinidad.
+2022-09-22 23:41:17.446 +00:00 [DBG] Successfully parsed data for CEDI- Sales & Operations Manager from Ramco Industries Limited.
+2022-09-22 23:41:18.488 +00:00 [DBG] Successfully parsed data for Legal Services Manager from S.M. Jaleel & Company Limited.
+2022-09-22 23:41:19.559 +00:00 [DBG] Successfully parsed data for Operations Analyst from National Flour Mills Limited.
+2022-09-22 23:41:20.526 +00:00 [DBG] Successfully parsed data for Tractor Driver from Not Disclosed.
+2022-09-22 23:41:21.447 +00:00 [DBG] Successfully parsed data for Retail Associate from Digicel.
+2022-09-22 23:41:22.481 +00:00 [DBG] Successfully parsed data for Account Executive from Digicel.
+2022-09-22 23:41:23.486 +00:00 [DBG] Successfully parsed data for Accounting Assistant from The Maritime Financial Group.
+2022-09-22 23:41:24.375 +00:00 [DBG] Successfully parsed data for FASHION MARKETING ASSISTANT from Ecliff Elie Limited.
+2022-09-22 23:41:25.277 +00:00 [DBG] Successfully parsed data for Branch Supervisor from J & K Signature Styles.
+2022-09-22 23:41:26.194 +00:00 [DBG] Successfully parsed data for Senior Technical Support Professional from Amplia Communications Limited.
+2022-09-22 23:41:27.132 +00:00 [DBG] Successfully parsed data for Car Park Attendant from Southern Medical Services Company Limited.
+2022-09-22 23:41:28.065 +00:00 [DBG] Successfully parsed data for Accountant from Not Disclosed.
+2022-09-22 23:41:29.151 +00:00 [DBG] Successfully parsed data for Finance Intern from CGA Limited.
+2022-09-22 23:41:30.339 +00:00 [DBG] Successfully parsed data for Country Ecommerce Officer from UNICOMER (Trinidad) Ltd.
+2022-09-22 23:41:31.266 +00:00 [DBG] Successfully parsed data for TECHNICIAN from Not Disclosed.
+2022-09-22 23:41:32.161 +00:00 [DBG] Successfully parsed data for Customer Service Representative from Not Disclosed.
+2022-09-22 23:41:33.288 +00:00 [DBG] Successfully parsed data for Project Coordinator from Associated Brands Industries Ltd.
+2022-09-22 23:41:34.226 +00:00 [DBG] Successfully parsed data for Maintenance Planning Assistant from Associated Brands Industries Ltd.
+2022-09-22 23:41:35.152 +00:00 [DBG] Successfully parsed data for DISPATCHER/PORTER from Not Disclosed.
+2022-09-22 23:41:36.132 +00:00 [DBG] Successfully parsed data for Merchandiser from Not Disclosed.
+2022-09-22 23:41:37.051 +00:00 [DBG] Successfully parsed data for Sales Representative from Not Disclosed.
+2022-09-22 23:41:38.799 +00:00 [DBG] Successfully parsed data for Senior Customs Manager from Not Disclosed.
+2022-09-22 23:41:39.719 +00:00 [DBG] Successfully parsed data for RESEARCH OFFICER from North Central Regional Health Authority.
+2022-09-22 23:41:40.644 +00:00 [DBG] Successfully parsed data for EXECUTIVE SECRETARY from North Central Regional Health Authority.
+2022-09-22 23:41:41.571 +00:00 [DBG] Successfully parsed data for MANAGER, LEGAL from North Central Regional Health Authority.
+2022-09-22 23:41:42.465 +00:00 [DBG] Successfully parsed data for ELECTRICAL ENGINEER I from North Central Regional Health Authority.
+2022-09-22 23:41:43.366 +00:00 [DBG] Successfully parsed data for CONVEYANCING CLERK from Eastman & Associates.
+2022-09-22 23:41:44.284 +00:00 [DBG] Successfully parsed data for Corporate Services Administrator from Regency Recruitment and Resources Limited.
+2022-09-22 23:41:45.182 +00:00 [DBG] Successfully parsed data for Store Supervisor (Courts) from UNICOMER (Trinidad) Ltd.
+2022-09-22 23:41:46.526 +00:00 [DBG] Successfully parsed data for Optometrist from UNICOMER (Trinidad) Ltd.
+2022-09-22 23:41:47.446 +00:00 [DBG] Successfully parsed data for Fulfillment Planner from UNICOMER (Trinidad) Ltd.
+2022-09-22 23:41:48.398 +00:00 [DBG] Successfully parsed data for Reporting Supervisor from iQor.
+2022-09-22 23:41:49.299 +00:00 [DBG] Successfully parsed data for Customer Service Sales Representative from iQor.
+2022-09-22 23:41:50.714 +00:00 [DBG] Successfully parsed data for Senior Financial Advisor (Belize) from Glo Recruitment & HR.
+2022-09-22 23:41:51.798 +00:00 [DBG] Successfully parsed data for Finance Manager, Standard Distributors Limited from ANSA McAL Group of Companies.
+2022-09-22 23:41:53.002 +00:00 [DBG] Successfully parsed data for Buyer, Standard Distributors Limited from ANSA McAL Group of Companies.
+2022-09-22 23:41:53.983 +00:00 [DBG] Successfully parsed data for Senior Procurement Officer from Electrical Industries Group Ltd (EIG).
+2022-09-22 23:41:55.383 +00:00 [DBG] Successfully parsed data for Enrolled Nursing Assistant - Pool from Not Disclosed.
+2022-09-22 23:41:56.307 +00:00 [DBG] Successfully parsed data for Health Care Sector Lead from Not Disclosed.
+2022-09-22 23:41:57.305 +00:00 [DBG] Successfully parsed data for Claims Technician from Not Disclosed.
+2022-09-22 23:41:58.238 +00:00 [DBG] Successfully parsed data for Bilingual-IT Desktop Support Technician from ESP.CO. UK. Ltd / ESP GLOBAL.
+2022-09-22 23:41:59.182 +00:00 [DBG] Successfully parsed data for Draughting Technician from Delta Window and Doors.
+2022-09-22 23:42:00.550 +00:00 [DBG] Successfully parsed data for Part Qualified Accountant from Actavo.
+2022-09-22 23:42:01.527 +00:00 [DBG] Successfully parsed data for Group IT Cloud Engineer from Digicel.
+2022-09-22 23:42:02.530 +00:00 [DBG] Successfully parsed data for Library Assistant Trinidad from Not Disclosed.
+2022-09-22 23:42:03.453 +00:00 [DBG] Successfully parsed data for IT Security Specialist (Trinidad) from Caribbean Airlines Limited.
+2022-09-22 23:42:04.412 +00:00 [DBG] Successfully parsed data for Manager - Managed Services & Major Projects from Productive Business Solutions (PBS).
+2022-09-22 23:42:05.337 +00:00 [DBG] Successfully parsed data for Mechanical Engineer II - Downstream Oil & Gas from NES Fircroft.
+2022-09-22 23:42:06.551 +00:00 [DBG] Successfully parsed data for Logistics Manager from Angostura Limited.
+2022-09-22 23:42:07.654 +00:00 [DBG] Successfully parsed data for Supply Planner from Angostura Limited.
+2022-09-22 23:42:08.613 +00:00 [DBG] Successfully parsed data for Corporate Trainer from Regency Recruitment and Resources Limited.
+2022-09-22 23:42:09.600 +00:00 [DBG] Successfully parsed data for Facilities Coordinator, Standard Distributors Limited from ANSA McAL Group of Companies.
+2022-09-22 23:42:10.582 +00:00 [DBG] Successfully parsed data for Programmer Trainee from Republic Bank Limited.
+2022-09-22 23:42:11.495 +00:00 [DBG] Successfully parsed data for Accounting / Administrative Assistant from RelyOn Nutec.
+2022-09-22 23:42:12.501 +00:00 [DBG] Successfully parsed data for Account Executive, Carib Glassworks Limited from ANSA McAL Group of Companies.
+2022-09-22 23:42:13.852 +00:00 [DBG] Successfully parsed data for Project Assistant- Production from Aegis Business Solutions Limited.
+2022-09-22 23:42:14.809 +00:00 [DBG] Successfully parsed data for Community Engagement Intern- Facebook and Tiktok from Aegis Business Solutions Limited.
+2022-09-22 23:42:15.718 +00:00 [DBG] Successfully parsed data for Marketing Coordinator from Aegis Business Solutions Limited.
+2022-09-22 23:42:16.738 +00:00 [DBG] Successfully parsed data for Network Technician from Regency Recruitment and Resources Limited.
+2022-09-22 23:42:17.793 +00:00 [DBG] Successfully parsed data for Legal Advisor from Radiant Law.
+2022-09-22 23:42:18.822 +00:00 [DBG] Successfully parsed data for Senior Project Manager from Fujitsu Caribbean.
+2022-09-22 23:42:19.806 +00:00 [DBG] Successfully parsed data for SALES REPRESENTATIVE from Not Disclosed.
+2022-09-22 23:42:20.753 +00:00 [DBG] Successfully parsed data for Human Resources & Payroll Generalist from Trotters Restaurant Group Limited.
+2022-09-22 23:42:21.720 +00:00 [DBG] Successfully parsed data for AML/CFT Compliance Officer from National Lotteries Control Board.
+2022-09-22 23:42:22.730 +00:00 [DBG] Successfully parsed data for Senior Auditor from National Lotteries Control Board.
+2022-09-22 23:42:23.838 +00:00 [DBG] Successfully parsed data for Digital Marketing Specialist from Regency Recruitment and Resources Limited.
+2022-09-22 23:42:24.801 +00:00 [DBG] Successfully parsed data for Registered Nurse - Pool from Not Disclosed.
+2022-09-22 23:42:26.879 +00:00 [DBG] Successfully parsed data for PROCUREMENT & LOGISTICS COORDINATOR/MANAGER from Pharmaco Industries Limited.
+2022-09-22 23:42:27.841 +00:00 [DBG] Successfully parsed data for Engineering Technician/Quantity Surveying Technician from Not Disclosed.
+2022-09-22 23:42:28.961 +00:00 [DBG] Successfully parsed data for ACCOUNT EXECUTIVE from Eastman & Associates.
+2022-09-22 23:42:29.930 +00:00 [DBG] Successfully parsed data for Technical Sales & Marketing Representative- Audio Visual Department from Western Scientific Company Ltd.
+2022-09-22 23:42:30.950 +00:00 [DBG] Successfully parsed data for Cashier from Not Disclosed.
+2022-09-22 23:42:30.951 +00:00 [DBG] All job post data added to list successfully.
+2022-09-22 23:42:32.446 +00:00 [INF] Updated/inserted Marketing and Sales Officer from Not Disclosed into database.
+2022-09-22 23:42:32.533 +00:00 [INF] Updated/inserted Process Engineer II from Massy Wood Group into database.
+2022-09-22 23:42:32.618 +00:00 [INF] Updated/inserted COMMUNICATION STUDIES TEACHER from Bishop Anstey High School East & Trinity College East into database.
+2022-09-22 23:42:32.702 +00:00 [INF] Updated/inserted Project Delivery Lead - Secondment from Massy Wood Group into database.
+2022-09-22 23:42:32.786 +00:00 [INF] Updated/inserted Project Delivery Lead from Massy Wood Group into database.
+2022-09-22 23:42:32.871 +00:00 [INF] Updated/inserted Business Operations Assistant II from Eve Anderson Recruitment Ltd into database.
+2022-09-22 23:42:33.072 +00:00 [INF] Updated/inserted Internal Auditor from National Flour Mills Limited into database.
+2022-09-22 23:42:33.156 +00:00 [INF] Updated/inserted Group IFRS Compliance Manager from ANSA McAL Group of Companies into database.
+2022-09-22 23:42:33.240 +00:00 [INF] Updated/inserted Assistant General Manager from Regency Recruitment and Resources Limited into database.
+2022-09-22 23:42:33.325 +00:00 [INF] Updated/inserted GRAPHIC ARTIST from Eastman & Associates into database.
+2022-09-22 23:42:33.410 +00:00 [INF] Updated/inserted Collection Officer from NES Fircroft into database.
+2022-09-22 23:42:33.494 +00:00 [INF] Updated/inserted Quantity Surveyor from Not Disclosed into database.
+2022-09-22 23:42:33.580 +00:00 [INF] Updated/inserted Performance Analyst from Phoenix Park Gas Processors Limited into database.
+2022-09-22 23:42:33.665 +00:00 [INF] Updated/inserted Manager - Deal Advisory from KPMG Caricom Business Services Limited into database.
+2022-09-22 23:42:33.750 +00:00 [INF] Updated/inserted Tax Manager from KPMG Caricom Business Services Limited into database.
+2022-09-22 23:42:33.836 +00:00 [INF] Updated/inserted Sales Associate from PSCU Credit Union Co-operative Society Limited into database.
+2022-09-22 23:42:34.008 +00:00 [INF] Updated/inserted ICT Technician from Eve Anderson Recruitment Ltd into database.
+2022-09-22 23:42:34.093 +00:00 [INF] Updated/inserted PRINCIPAL, SPECIAL EDUCATION from RecruitmentXperts Ltd into database.
+2022-09-22 23:42:34.177 +00:00 [INF] Updated/inserted CSR from Not Disclosed into database.
+2022-09-22 23:42:34.260 +00:00 [INF] Updated/inserted Account Executive from Regency Recruitment and Resources Limited into database.
+2022-09-22 23:42:34.346 +00:00 [INF] Updated/inserted Instrumentation & Controls Engineer II from Massy Wood Group into database.
+2022-09-22 23:42:34.430 +00:00 [INF] Updated/inserted Senior Electrical Engineer - Design from Massy Wood Group into database.
+2022-09-22 23:42:34.514 +00:00 [INF] Updated/inserted Accounting Assistant from The Dachin Group of Companies into database.
+2022-09-22 23:42:34.599 +00:00 [INF] Updated/inserted Human Resource Officer II from ASSL - Amalgamated Security Services Limited into database.
+2022-09-22 23:42:34.683 +00:00 [INF] Updated/inserted Trade Marketing Assistant from Kaleidoscope Paints Limited into database.
+2022-09-22 23:42:34.767 +00:00 [INF] Updated/inserted Laboratory Shift Supervisor from Kenson Group of Companies into database.
+2022-09-22 23:42:34.851 +00:00 [INF] Updated/inserted Laboratory Technician from Kenson Group of Companies into database.
+2022-09-22 23:42:34.938 +00:00 [INF] Updated/inserted HSSE Manager from GCG Trinidad into database.
+2022-09-22 23:42:35.025 +00:00 [INF] Updated/inserted CEDI- Sales & Operations Manager from Ramco Industries Limited into database.
+2022-09-22 23:42:35.111 +00:00 [INF] Updated/inserted Legal Services Manager from S.M. Jaleel & Company Limited into database.
+2022-09-22 23:42:35.196 +00:00 [INF] Updated/inserted Operations Analyst from National Flour Mills Limited into database.
+2022-09-22 23:42:35.281 +00:00 [INF] Updated/inserted Tractor Driver from Not Disclosed into database.
+2022-09-22 23:42:35.366 +00:00 [INF] Updated/inserted Retail Associate from Digicel into database.
+2022-09-22 23:42:35.534 +00:00 [INF] Updated/inserted Account Executive from Digicel into database.
+2022-09-22 23:42:35.701 +00:00 [INF] Updated/inserted Accounting Assistant from The Maritime Financial Group into database.
+2022-09-22 23:42:35.785 +00:00 [INF] Updated/inserted FASHION MARKETING ASSISTANT from Ecliff Elie Limited into database.
+2022-09-22 23:42:35.868 +00:00 [INF] Updated/inserted Branch Supervisor from J & K Signature Styles into database.
+2022-09-22 23:42:35.953 +00:00 [INF] Updated/inserted Senior Technical Support Professional from Amplia Communications Limited into database.
+2022-09-22 23:42:36.038 +00:00 [INF] Updated/inserted Car Park Attendant from Southern Medical Services Company Limited into database.
+2022-09-22 23:42:36.121 +00:00 [INF] Updated/inserted Accountant from Not Disclosed into database.
+2022-09-22 23:42:36.205 +00:00 [INF] Updated/inserted Finance Intern from CGA Limited into database.
+2022-09-22 23:42:36.290 +00:00 [INF] Updated/inserted Country Ecommerce Officer from UNICOMER (Trinidad) Ltd into database.
+2022-09-22 23:42:36.374 +00:00 [INF] Updated/inserted TECHNICIAN from Not Disclosed into database.
+2022-09-22 23:42:36.458 +00:00 [INF] Updated/inserted Customer Service Representative from Not Disclosed into database.
+2022-09-22 23:42:36.542 +00:00 [INF] Updated/inserted Project Coordinator from Associated Brands Industries Ltd into database.
+2022-09-22 23:42:36.626 +00:00 [INF] Updated/inserted Maintenance Planning Assistant from Associated Brands Industries Ltd into database.
+2022-09-22 23:42:36.713 +00:00 [INF] Updated/inserted DISPATCHER/PORTER from Not Disclosed into database.
+2022-09-22 23:42:36.797 +00:00 [INF] Updated/inserted Merchandiser from Not Disclosed into database.
+2022-09-22 23:42:36.880 +00:00 [INF] Updated/inserted Sales Representative from Not Disclosed into database.
+2022-09-22 23:42:36.964 +00:00 [INF] Updated/inserted Senior Customs Manager from Not Disclosed into database.
+2022-09-22 23:42:37.048 +00:00 [INF] Updated/inserted RESEARCH OFFICER from North Central Regional Health Authority into database.
+2022-09-22 23:42:37.132 +00:00 [INF] Updated/inserted EXECUTIVE SECRETARY from North Central Regional Health Authority into database.
+2022-09-22 23:42:37.215 +00:00 [INF] Updated/inserted MANAGER, LEGAL from North Central Regional Health Authority into database.
+2022-09-22 23:42:37.299 +00:00 [INF] Updated/inserted ELECTRICAL ENGINEER I from North Central Regional Health Authority into database.
+2022-09-22 23:42:37.383 +00:00 [INF] Updated/inserted CONVEYANCING CLERK from Eastman & Associates into database.
+2022-09-22 23:42:37.554 +00:00 [INF] Updated/inserted Corporate Services Administrator from Regency Recruitment and Resources Limited into database.
+2022-09-22 23:42:37.725 +00:00 [INF] Updated/inserted Store Supervisor (Courts) from UNICOMER (Trinidad) Ltd into database.
+2022-09-22 23:42:37.895 +00:00 [INF] Updated/inserted Optometrist from UNICOMER (Trinidad) Ltd into database.
+2022-09-22 23:42:38.097 +00:00 [INF] Updated/inserted Fulfillment Planner from UNICOMER (Trinidad) Ltd into database.
+2022-09-22 23:42:38.264 +00:00 [INF] Updated/inserted Reporting Supervisor from iQor into database.
+2022-09-22 23:42:38.431 +00:00 [INF] Updated/inserted Customer Service Sales Representative from iQor into database.
+2022-09-22 23:42:38.598 +00:00 [INF] Updated/inserted Senior Financial Advisor (Belize) from Glo Recruitment & HR into database.
+2022-09-22 23:42:38.767 +00:00 [INF] Updated/inserted Finance Manager, Standard Distributors Limited from ANSA McAL Group of Companies into database.
+2022-09-22 23:42:38.934 +00:00 [INF] Updated/inserted Buyer, Standard Distributors Limited from ANSA McAL Group of Companies into database.
+2022-09-22 23:42:39.113 +00:00 [INF] Updated/inserted Senior Procurement Officer from Electrical Industries Group Ltd (EIG) into database.
+2022-09-22 23:42:39.280 +00:00 [INF] Updated/inserted Enrolled Nursing Assistant - Pool from Not Disclosed into database.
+2022-09-22 23:42:39.448 +00:00 [INF] Updated/inserted Health Care Sector Lead from Not Disclosed into database.
+2022-09-22 23:42:39.619 +00:00 [INF] Updated/inserted Claims Technician from Not Disclosed into database.
+2022-09-22 23:42:39.789 +00:00 [INF] Updated/inserted Bilingual-IT Desktop Support Technician from ESP.CO. UK. Ltd / ESP GLOBAL into database.
+2022-09-22 23:42:39.963 +00:00 [INF] Updated/inserted Draughting Technician from Delta Window and Doors into database.
+2022-09-22 23:42:40.131 +00:00 [INF] Updated/inserted Part Qualified Accountant from Actavo into database.
+2022-09-22 23:42:40.299 +00:00 [INF] Updated/inserted Group IT Cloud Engineer from Digicel into database.
+2022-09-22 23:42:40.472 +00:00 [INF] Updated/inserted Library Assistant Trinidad from Not Disclosed into database.
+2022-09-22 23:42:40.639 +00:00 [INF] Updated/inserted IT Security Specialist (Trinidad) from Caribbean Airlines Limited into database.
+2022-09-22 23:42:40.806 +00:00 [INF] Updated/inserted Manager - Managed Services & Major Projects from Productive Business Solutions (PBS) into database.
+2022-09-22 23:42:40.973 +00:00 [INF] Updated/inserted Mechanical Engineer II - Downstream Oil & Gas from NES Fircroft into database.
+2022-09-22 23:42:41.143 +00:00 [INF] Updated/inserted Logistics Manager from Angostura Limited into database.
+2022-09-22 23:42:41.326 +00:00 [INF] Updated/inserted Supply Planner from Angostura Limited into database.
+2022-09-22 23:42:41.493 +00:00 [INF] Updated/inserted Corporate Trainer from Regency Recruitment and Resources Limited into database.
+2022-09-22 23:42:41.661 +00:00 [INF] Updated/inserted Facilities Coordinator, Standard Distributors Limited from ANSA McAL Group of Companies into database.
+2022-09-22 23:42:41.829 +00:00 [INF] Updated/inserted Programmer Trainee from Republic Bank Limited into database.
+2022-09-22 23:42:41.996 +00:00 [INF] Updated/inserted Accounting / Administrative Assistant from RelyOn Nutec into database.
+2022-09-22 23:42:42.170 +00:00 [INF] Updated/inserted Account Executive, Carib Glassworks Limited from ANSA McAL Group of Companies into database.
+2022-09-22 23:42:42.337 +00:00 [INF] Updated/inserted Project Assistant- Production from Aegis Business Solutions Limited into database.
+2022-09-22 23:42:42.504 +00:00 [INF] Updated/inserted Community Engagement Intern- Facebook and Tiktok from Aegis Business Solutions Limited into database.
+2022-09-22 23:42:42.671 +00:00 [INF] Updated/inserted Marketing Coordinator from Aegis Business Solutions Limited into database.
+2022-09-22 23:42:42.838 +00:00 [INF] Updated/inserted Network Technician from Regency Recruitment and Resources Limited into database.
+2022-09-22 23:42:43.005 +00:00 [INF] Updated/inserted Legal Advisor from Radiant Law into database.
+2022-09-22 23:42:43.176 +00:00 [INF] Updated/inserted Senior Project Manager from Fujitsu Caribbean into database.
+2022-09-22 23:42:43.341 +00:00 [INF] Updated/inserted SALES REPRESENTATIVE from Not Disclosed into database.
+2022-09-22 23:42:43.511 +00:00 [INF] Updated/inserted Human Resources & Payroll Generalist from Trotters Restaurant Group Limited into database.
+2022-09-22 23:42:43.679 +00:00 [INF] Updated/inserted AML/CFT Compliance Officer from National Lotteries Control Board into database.
+2022-09-22 23:42:43.847 +00:00 [INF] Updated/inserted Senior Auditor from National Lotteries Control Board into database.
+2022-09-22 23:42:44.016 +00:00 [INF] Updated/inserted Digital Marketing Specialist from Regency Recruitment and Resources Limited into database.
+2022-09-22 23:42:44.186 +00:00 [INF] Updated/inserted Registered Nurse - Pool from Not Disclosed into database.
+2022-09-22 23:42:44.357 +00:00 [INF] Updated/inserted PROCUREMENT & LOGISTICS COORDINATOR/MANAGER from Pharmaco Industries Limited into database.
+2022-09-22 23:42:44.530 +00:00 [INF] Updated/inserted Engineering Technician/Quantity Surveying Technician from Not Disclosed into database.
+2022-09-22 23:42:44.696 +00:00 [INF] Updated/inserted ACCOUNT EXECUTIVE from Eastman & Associates into database.
+2022-09-22 23:42:44.864 +00:00 [INF] Updated/inserted Technical Sales & Marketing Representative- Audio Visual Department from Western Scientific Company Ltd into database.
+2022-09-22 23:42:45.043 +00:00 [INF] Updated/inserted Cashier from Not Disclosed into database.
+2022-09-22 23:42:45.351 +00:00 [ERR] Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 2 - Connection was terminated: Connection was terminated)
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ThrowExceptionAndWarning(Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadAsyncCallbackCaptureException(TaskCompletionSource`1 source)
+ClientConnectionId:e384105c-f37d-42ee-8ca8-2aefde6582e1
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.<>c__DisplayClass30_0`2.<<ExecuteAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.ExecuteImplementationAsync[TState,TResult](Func`4 operation, Func`4 verifySucceeded, TState state, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.ExecuteImplementationAsync[TState,TResult](Func`4 operation, Func`4 verifySucceeded, TState state, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at trinibytes.Scrapers.ScrapeCaribbeanJobsPosts.UpsertScrapedJobPostsIntoDatabase(List`1 scrapedJobPosts, MyDbContext _dbContext) in C:\Users\Rishi-Desktop\Mega Sync\Code\trinibytes_aspnet\trinibytes\Scrapers\ScrapeCaribbeanJobsPosts.cs:line 208
+2022-09-22 23:42:45.352 +00:00 [INF] Something went wrong while fetching current job posts.
+2022-09-22 20:24:36.426 -04:00 [DBG] Background job started.
+2022-09-22 20:24:55.631 -04:00 [DBG] Background job started.
+2022-09-22 20:30:30.321 -04:00 [DBG] Background job started.
+2022-09-22 20:32:18.380 -04:00 [DBG] Background job started.
+2022-09-22 20:39:06.913 -04:00 [DBG] Background job started.

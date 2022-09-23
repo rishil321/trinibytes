@@ -1,0 +1,32 @@
+<div class="container-fluid text-center">
+  <div class="card">
+    <div class="card-header">
+      <h2>Create Blog Post</h2>
+    </div>
+    <div class="card-body">
+      <p>Let's create a new blog post for the world!</p>
+      <form [formGroup]="createBlogPostForm" (ngSubmit)="createBlogPostSubmit(createBlogPostForm)">
+        <input type="hidden" name="form-name" value="create-blog-post">
+        <div class="mb-3">
+          <label for="newBlogPostTitle" class="form-label">Title</label>
+          <input type="text" class="form-control" id="newBlogPostTitle" formControlName="newBlogPostTitle">
+        </div>
+        <div class="mb-3">
+          <label for="newBlogPostBody" class="form-label">Body</label>
+          <textarea type="text" class="form-control" id="newBlogPostBody" formControlName="newBlogPostBody" rows="10"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
+      <hr>
+      <form [formGroup]="uploadImageForm" (ngSubmit)="uploadImageSubmit(uploadImageForm)">
+        <input type="hidden" name="form-name" value="attach-image">
+        <div class="mb-3">
+          <label for="newBlogPostImage" class="form-label">Images</label>
+          <input type="file" class="form-control" id="newBlogPostImage" (change)="onFileChange($event)">
+          <button type="submit" class="btn btn-secondary mt-3">Upload Image</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+

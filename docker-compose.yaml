@@ -1,0 +1,11 @@
+version: "3"
+services:
+  trinibytes_aspnet_angular:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    shm_size: 2gb
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./logs:/app/logs
