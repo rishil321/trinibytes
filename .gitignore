@@ -5,3 +5,4 @@ riderModule.iml
 /_ReSharper.Caches/
 node_modules/
 ClientApp/node_modules/
+*.log

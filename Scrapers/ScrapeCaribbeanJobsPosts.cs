@@ -193,6 +193,7 @@ public class ScrapeCaribbeanJobsPosts
                     {
                         //this is a new object to create
                         scrapedJobPost.JobListingDate = DateTime.Today;
+                        scrapedJobPost.LastModifiedDate = DateTime.Today;
                         _dbContext.CaribbeanJobsPosts.Add(scrapedJobPost);
                     }
 

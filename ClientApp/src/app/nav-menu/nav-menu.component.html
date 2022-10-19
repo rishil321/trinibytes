@@ -1,8 +1,9 @@
 <header>
   <nav
-    class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3"
+    class="navbar navbar-expand-lg navbar-toggleable-sm bg-primary border-bottom box-shadow mb-3 navbar-dark"
   >
-    <div class="container">
+    <div class="container-fluid">
+      <img height="50" class="navbar-brand" src="assets/blogging_icon.png">
       <a class="navbar-brand" [routerLink]="['/']">trinibytes</a>
       <button
         class="navbar-toggler"
@@ -25,17 +26,28 @@
             [routerLinkActive]="['link-active']"
             [routerLinkActiveOptions]="{ exact: true }"
           >
-            <a class="nav-link text-dark" [routerLink]="['/']">Home</a>
+            <a class="nav-link" [routerLink]="['/']">Home</a>
           </li>
           <li class="nav-item" [routerLinkActive]="['link-active']">
-            <a class="nav-link text-dark" [routerLink]="['/counter']"
-              >Counter</a
-            >
+            <a class="nav-link" [routerLink]="['/caribbeanjobs-data']">Manage Scrapers</a>
           </li>
-          <li class="nav-item" [routerLinkActive]="['link-active']">
-            <a class="nav-link text-dark" [routerLink]="['/fetch-data']"
-              >Fetch data</a
-            >
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" role="button"
+               data-bs-toggle="dropdown" aria-expanded="false" href="#" id="navbarDropdown2">Blog Posts</a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <li>
+                <a [routerLink]="['/create-blog-post']" class="dropdown-item">Create Blog Post</a></li>
+              <li><a class="dropdown-item">Edit Blog Post</a></li>
+              <li><a class="dropdown-item">View Blog Post</a></li>
+              <li><a class="dropdown-item">View All Blog Posts</a></li>
+            </ul>
+          </li>
+          <li
+            class="nav-item"
+            [routerLinkActive]="['link-active']"
+            [routerLinkActiveOptions]="{ exact: true }"
+          >
+            <a class="nav-link" [routerLink]="['/about-me']">About Me</a>
           </li>
         </ul>
       </div>
